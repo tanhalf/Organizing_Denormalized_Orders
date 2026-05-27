@@ -1,4 +1,4 @@
--- touch me bro
+
 USE student_submission;
 CREATE TABLE denormalized_orders (
     order_id INT,
